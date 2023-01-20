@@ -1,17 +1,21 @@
 {
-    "Identifier": "",
-    "Slug": "",
+    "Identifier": "eos5ixa",
+    "Slug": "test-model-2",
     "Status": "",
-    "Title": "",
-    "Description": "",
+    "Title": "Tes model 2",
+    "Description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
     "Mode": "",
     "Input": [],
     "Input Shape": "",
     "Task": [],
     "Output": [],
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
+    "Tag": [
+        "Malaria",
+        "P.falciparum",
+        "IC50"
+    ],
+    "Publication": "https://ersilia.io",
     "Source": "",
-    "License": ""
+    "License": "MIT"
 }
